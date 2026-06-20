@@ -15,7 +15,7 @@ st.subheader("phD Researcher")
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("/home/s2522002/Experiment/web_app/profile.jpeg", width=250)
+    st.image("profile.jpeg", width=250)
 
 with col2:
     st.markdown("""
